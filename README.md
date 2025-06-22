@@ -6,7 +6,7 @@ Technologies Utilisées
     HTML5 : Structure sémantique de la page.
     CSS3 (avec SCSS) : Stylisme et mise en page, y compris l'utilisation de Flexbox pour le centrage et l'alignement des éléments.
 
-Processus de Développement & Apprentissages Clés
+Processus de Développement & Apprentissages Clés 
 
 J'ai abordé cet exercice en privilégiant une approche "code-first" basée sur la visualisation mentale du rendu final. La majeure partie du CSS a été écrite de mémoire, avec seulement quelques vérifications ponctuelles pour des propriétés spécifiques ou des ajustements de détails.
 
