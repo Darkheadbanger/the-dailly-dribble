@@ -19,9 +19,8 @@ Ce projet m'a permis de renforcer ma maîtrise des concepts suivants :
     Organisation du CSS : Pratique de l'imbrication et de l'organisation des styles en utilisant SCSS, ce qui rend le code plus lisible et maintenable.
 
 Aperçu du Projet
+![image](https://github.com/user-attachments/assets/b2e7b69c-5cac-4320-98d8-c49ecd9f5e21)
 
-(Ici, vous pouvez insérer un GIF, une capture d'écran de votre version finale, ou un lien vers une démo hébergée si vous en avez une.)
-Comment Lancer le Projet
 
     Clonez ce dépôt : git clone [URL_DE_VOTRE_DEPOT]
     Naviguez vers le répertoire du projet : cd the-daily-dribble
